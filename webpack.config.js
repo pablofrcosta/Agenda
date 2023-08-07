@@ -1,5 +1,5 @@
 module.exports = {
   entry: {
-    index: './main.js'
+    index: './dist/main.js'
   }
 }
